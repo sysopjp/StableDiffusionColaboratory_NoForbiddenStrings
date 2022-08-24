@@ -2,7 +2,7 @@
 
 このリポジトリのメインは
 
-https://github.com/sysopjp/StableDiffusionColaboratory_NoForbiddenStrings/blob/main/Stable_Diffusion_with_%F0%9F%A7%A8_diffusers_%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.ipynb
+`https://github.com/sysopjp/StableDiffusionColaboratory_NoForbiddenStrings/blob/main/Stable_Diffusion_with_%F0%9F%A7%A8_diffusers_%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.ipynb`    
 ↑これです
 
 
